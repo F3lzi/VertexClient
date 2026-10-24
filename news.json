@@ -1,1 +1,70 @@
-[]
+[
+  {
+    "version": "1.4.18",
+    "title": "Nowe wersje Minecrafta i zmiana konta w grze",
+    "date": "2026-10-24",
+    "content": "Vertex obsługuje teraz Minecrafta od 1.20.1 do 1.21.11, z takim samym wyglądem na każdej wersji. Nowości: zmiana konta bezpośrednio w grze (lista kont zapisanych w launcherze, a launcher podąża za Twoim wyborem), natywna lista języków Minecrafta z logo Vertexa przy obsługiwanych językach, rozmyte tło za każdym ekranem, przebudowany edytor HUD oraz wiele poprawek peleryn i modułów.",
+    "translations": {
+      "en": {
+        "title": "New Minecraft versions and switching accounts in game",
+        "content": "Vertex now supports Minecraft 1.20.1 through 1.21.11 with the same look on every version. New: switch accounts from inside the game (it lists the accounts saved in the launcher, and the launcher follows your choice), Minecraft's own language list marks the languages Vertex speaks with the Vertex logo, every screen blurs the world behind it, a rebuilt HUD editor, and many cape and module fixes."
+      },
+      "pl": {
+        "title": "Nowe wersje Minecrafta i zmiana konta w grze",
+        "content": "Vertex obsługuje teraz Minecrafta od 1.20.1 do 1.21.11, z takim samym wyglądem na każdej wersji. Nowości: zmiana konta bezpośrednio w grze (lista kont zapisanych w launcherze, a launcher podąża za Twoim wyborem), natywna lista języków Minecrafta z logo Vertexa przy obsługiwanych językach, rozmyte tło za każdym ekranem, przebudowany edytor HUD oraz wiele poprawek peleryn i modułów."
+      },
+      "es": {
+        "title": "Nuevas versiones de Minecraft y cambio de cuenta en el juego",
+        "content": "Vertex ahora es compatible con Minecraft de la 1.20.1 a la 1.21.11, con el mismo aspecto en cada versión. Novedades: cambia de cuenta dentro del juego (muestra las cuentas guardadas en el launcher y el launcher sigue tu elección), la lista de idiomas de Minecraft marca con el logo de Vertex los idiomas que Vertex habla, cada pantalla desenfoca el mundo de fondo, un editor de HUD renovado y muchas correcciones de capas y módulos."
+      },
+      "de": {
+        "title": "Neue Minecraft-Versionen und Kontowechsel im Spiel",
+        "content": "Vertex unterstützt jetzt Minecraft 1.20.1 bis 1.21.11 mit demselben Aussehen in jeder Version. Neu: Konten direkt im Spiel wechseln (es zeigt die im Launcher gespeicherten Konten, und der Launcher folgt deiner Auswahl), die Sprachliste von Minecraft kennzeichnet die von Vertex unterstützten Sprachen mit dem Vertex-Logo, jeder Bildschirm weichzeichnet die Welt dahinter, ein neu gestalteter HUD-Editor sowie viele Korrekturen bei Umhängen und Modulen."
+      },
+      "fr": {
+        "title": "Nouvelles versions de Minecraft et changement de compte en jeu",
+        "content": "Vertex prend désormais en charge Minecraft de la 1.20.1 à la 1.21.11, avec le même rendu sur chaque version. Nouveautés : change de compte directement en jeu (la liste reprend les comptes enregistrés dans le launcher, et le launcher suit ton choix), la liste des langues de Minecraft marque d'un logo Vertex les langues prises en charge, chaque écran floute le monde en arrière-plan, un éditeur de HUD refait et de nombreuses corrections de capes et de modules."
+      },
+      "pt": {
+        "title": "Novas versões do Minecraft e troca de conta no jogo",
+        "content": "O Vertex agora oferece suporte ao Minecraft da 1.20.1 à 1.21.11, com o mesmo visual em todas as versões. Novidades: troque de conta dentro do jogo (ele lista as contas salvas no launcher, e o launcher acompanha sua escolha), a lista de idiomas do Minecraft marca com o logo do Vertex os idiomas que o Vertex fala, cada tela desfoca o mundo ao fundo, um editor de HUD reformulado e muitas correções de capas e módulos."
+      },
+      "it": {
+        "title": "Nuove versioni di Minecraft e cambio account in gioco",
+        "content": "Vertex ora supporta Minecraft dalla 1.20.1 alla 1.21.11, con lo stesso aspetto su ogni versione. Novità: cambia account direttamente in gioco (mostra gli account salvati nel launcher e il launcher segue la tua scelta), l'elenco lingue di Minecraft segna con il logo Vertex le lingue supportate, ogni schermata sfoca il mondo sullo sfondo, un editor HUD rinnovato e molte correzioni a mantelli e moduli."
+      },
+      "zh": {
+        "title": "新的 Minecraft 版本与游戏内切换账户",
+        "content": "Vertex 现已支持 Minecraft 1.20.1 至 1.21.11，每个版本外观一致。新功能：在游戏内直接切换账户（列出启动器中保存的账户，启动器会跟随你的选择）；Minecraft 自带的语言列表会用 Vertex 标志标出 Vertex 支持的语言；所有界面都会模糊背后的世界；重新设计的 HUD 编辑器；以及对披风和模块的大量修复。"
+      },
+      "ja": {
+        "title": "新しい Minecraft バージョンとゲーム内でのアカウント切り替え",
+        "content": "Vertex は Minecraft 1.20.1 から 1.21.11 に対応し、どのバージョンでも同じ見た目になりました。新機能：ゲーム内でアカウントを切り替え（ランチャーに保存したアカウントを一覧表示し、ランチャーも選択に追従）、Minecraft 標準の言語リストで Vertex 対応言語に Vertex のロゴを表示、すべての画面で背後のワールドをぼかし表示、HUD エディターの刷新、そしてマントやモジュールの多数の修正。"
+      },
+      "ko": {
+        "title": "새로운 Minecraft 버전과 게임 내 계정 전환",
+        "content": "Vertex가 이제 Minecraft 1.20.1부터 1.21.11까지 지원하며 모든 버전에서 같은 모습입니다. 새 기능: 게임 안에서 바로 계정 전환(런처에 저장된 계정을 보여 주고 런처가 선택을 따라갑니다), Minecraft 기본 언어 목록에서 Vertex가 지원하는 언어에 Vertex 로고 표시, 모든 화면이 뒤의 월드를 흐리게 처리, 새로 만든 HUD 편집기, 그리고 망토와 모듈의 다양한 수정."
+      },
+      "ru": {
+        "title": "Новые версии Minecraft и смена аккаунта в игре",
+        "content": "Vertex теперь поддерживает Minecraft с 1.20.1 по 1.21.11 с одинаковым видом на каждой версии. Новое: смена аккаунта прямо в игре (показывает аккаунты, сохранённые в лаунчере, а лаунчер следует вашему выбору), в списке языков Minecraft поддерживаемые Vertex языки отмечены логотипом Vertex, каждый экран размывает мир позади, переработанный редактор HUD и множество исправлений плащей и модулей."
+      },
+      "tr": {
+        "title": "Yeni Minecraft sürümleri ve oyun içinde hesap değiştirme",
+        "content": "Vertex artık Minecraft 1.20.1'den 1.21.11'e kadar her sürümde aynı görünümle çalışıyor. Yenilikler: oyunun içinden hesap değiştirme (başlatıcıda kayıtlı hesapları listeler, başlatıcı seçiminizi takip eder), Minecraft'ın kendi dil listesinde Vertex'in desteklediği diller Vertex logosuyla işaretlenir, her ekran arkadaki dünyayı bulanıklaştırır, yenilenmiş HUD düzenleyici ve pelerin ile modüllerde birçok düzeltme."
+      },
+      "ar": {
+        "title": "إصدارات ماينكرافت جديدة وتبديل الحساب داخل اللعبة",
+        "content": "يدعم Vertex الآن ماينكرافت من 1.20.1 إلى 1.21.11 بالمظهر نفسه في كل إصدار. الجديد: تبديل الحساب من داخل اللعبة (يعرض الحسابات المحفوظة في المشغّل ويتبع المشغّل اختيارك)، وقائمة اللغات في ماينكرافت تضع شعار Vertex بجانب اللغات التي يدعمها، وكل شاشة تطمس العالم خلفها، ومحرّر HUD أُعيد تصميمه، وإصلاحات كثيرة للعباءات والوحدات."
+      },
+      "hi": {
+        "title": "नए Minecraft संस्करण और गेम के अंदर खाता बदलना",
+        "content": "Vertex अब Minecraft 1.20.1 से 1.21.11 तक हर संस्करण में एक जैसे रूप के साथ काम करता है। नया: गेम के अंदर से खाता बदलें (यह लॉन्चर में सहेजे गए खाते दिखाता है और लॉन्चर आपकी पसंद का पालन करता है), Minecraft की अपनी भाषा सूची में Vertex द्वारा समर्थित भाषाओं पर Vertex का लोगो, हर स्क्रीन पीछे की दुनिया को धुंधला करती है, नया HUD एडिटर, और केप तथा मॉड्यूल में कई सुधार।"
+      },
+      "id": {
+        "title": "Versi Minecraft baru dan ganti akun di dalam game",
+        "content": "Vertex kini mendukung Minecraft 1.20.1 hingga 1.21.11 dengan tampilan yang sama di setiap versi. Baru: ganti akun langsung di dalam game (menampilkan akun yang tersimpan di launcher, dan launcher mengikuti pilihanmu), daftar bahasa bawaan Minecraft menandai bahasa yang didukung Vertex dengan logo Vertex, setiap layar mengaburkan dunia di belakangnya, editor HUD yang dirombak, serta banyak perbaikan jubah dan modul."
+      }
+    }
+  }
+]
